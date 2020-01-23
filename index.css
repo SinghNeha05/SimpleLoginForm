@@ -1,0 +1,49 @@
+h1 {
+  color: rgb(91, 27, 151);
+  padding-left: 10%;
+  margin-left: 40px;
+}
+
+body {
+  color: #ffff;
+  font-family: cursive;
+}
+.buttonStyle {
+  border-radius: 12px;
+}
+.inputStyle {
+  border-radius: 10px;
+  width: 20%;
+  height: 20px;
+  color: rgb(38, 50, 56);
+  letter-spacing: 2px;
+  display: block;
+  margin-left: 15%;
+  text-align: center;
+}
+.passwordStyle {
+  border-radius: 10px;
+  width: 20%;
+  height: 20px;
+  color: rgb(38, 50, 56);
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+  display: block;
+  margin-left: 15%;
+  text-align: center;
+}
+.label {
+  padding-left: 20%;
+  margin-left: 50px;
+  margin-bottom: 60px;
+}
+.buttonStyle {
+  display: block;
+  margin-left: 23%;
+  margin-bottom: 10px;
+}
+.forgotPass {
+  display: block;
+  padding-left: 20%;
+  margin-left: 19px;
+}
